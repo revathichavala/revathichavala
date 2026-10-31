@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there, I'm Revathi 👋
 
-<!--
-**revathichavala/revathichavala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSBS Student  
+💻 Aspiring Software Engineer  
+🤖 Interested in AI/ML and Full-Stack Development
 
-Here are some ideas to get you started:
+- 🌱 Currently learning Java, DSA, and AI/ML
+- 🔭 Building AI-powered applications
+- 💡 Passionate about coding and problem-solving
+- 🤝 Open to collaboration and learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+Python | Java | JavaScript | React | Node.js | MongoDB | MySQL | AI/ML
+
+✨ Always learning and building!
