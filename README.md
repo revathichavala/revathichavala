@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Revathi 👋<br><br>🎓 B.Tech CSBS Student  <br>💻 Aspiring Software Engineer  <br>🤖 Interested in AI/ML and Full-Stack Development<br><br>- 🌱 Currently learning Java, DSA, and AI/ML<br>- 🔭 Building AI-powered applications<br>- 💡 Passionate about coding and problem-solving<br>- 🤝 Open to collaboration and learning new technologies<br><br>### 🛠️ Skills<br>Python | Java | JavaScript | React | Node.js | MongoDB | MySQL | AI/ML<br><br>✨ Always learning and building!<br>
+# Hi there, I'm Revathi 👋<br><br>🎓 B.Tech CSBS Student  <br>💻 Aspiring Software Engineer  <br>🤖 Interested in AI/ML and Full-Stack Development<br><br>- 🌱 Currently learning Java,Python, DSA, and AI/ML<br>- 🔭 Building AI-powered applications<br>- 💡 Passionate about coding and problem-solving<br>- 🤝 Open to collaboration and learning new technologies<br><br>### 🛠️ Skills<br>Python | Java | JavaScript | React | Node.js | MongoDB | MySQL | AI/ML<br><br>✨ Always learning and building!<br>
 
 
 ## 🌐 Socials:
